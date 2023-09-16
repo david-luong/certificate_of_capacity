@@ -11,8 +11,9 @@ User Flow:
 1. Download Certificate of Capacity (PDF)
 2. Run Python Script
 3. Select Certificate of Capacity (PDF)
-4. File Annotated
-5. Rename to YY.MM.DD Certificate of Capacity.pdf
+4. Input Date DDMMYYYY
+5. File Annotated
+6. Rename to YY.MM.DD Certificate of Capacity.pdf
 
 Opportunities:
 - Signature automation
